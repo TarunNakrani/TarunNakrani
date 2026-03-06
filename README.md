@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**TarunNakrani/TarunNakrani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Full-Stack Developer** who enjoys building scalable web applications and modern SaaS platforms. I focus on writing clean, maintainable code and designing systems that perform well in production.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- React.js
+- Next.js
+- JavaScript
+- Tailwind CSS
+- Material UI
+
+**Backend**
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & Authorization
+
+**Database**
+- MongoDB
+- PostgreSQL
+- Supabase
+
+**Tools**
+- Git & GitHub
+- Docker
+- Vercel
+- Linux
+
+## 🚀 What I Do
+
+- Build scalable full-stack applications  
+- Design backend architectures and APIs  
+- Develop modern SaaS platforms  
+- Optimize performance and maintainability  
+- Turn product ideas into production-ready systems  
+
+## 📈 Current Focus
+
+- SaaS architecture  
+- System design  
+- High-performance web applications  
+- Modern development with Next.js
+
+---
+
+⚡ Always learning and building.
