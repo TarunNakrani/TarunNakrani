@@ -29,4 +29,4 @@ Business-specific applications designed around unique workflows, integrations, a
 
 I can contribute across the complete product development lifecycle:
 
-`Idea → Requirements → Technical Planning → Architecture → UI Development → Backend & APIs → Database → Testing → Deployment → Iteration`
+`Idea → Requirements → Technical Planning → Architecture → UI Development → Backend & APIs → Database → Payment Integration → Testing → Deployment → Iteration`
