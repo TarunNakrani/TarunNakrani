@@ -2,7 +2,7 @@
 
 I’m a results-driven **Full-Stack Developer** specializing in building scalable, secure, maintainable, and high-quality web applications. I work with startups, businesses, and teams to turn ideas, requirements, and designs into reliable production-ready products.
 
-My focus is not just on writing code — I care about **clean architecture, great user experiences, performance, maintainability, and long-term scalability**.
+My focus is not just on writing code, I care about **clean architecture, great user experiences, performance, maintainability, and long-term scalability**.
 
 ---
 
